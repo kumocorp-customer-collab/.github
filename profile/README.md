@@ -1,6 +1,3 @@
-# .github
-Kumo Labs is a collection of community available tools
-
 # KumoMTA Labs
 
 A collection of experiments and tools that might be interesting for KumoMTA users
